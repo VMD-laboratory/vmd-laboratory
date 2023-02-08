@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Vision, Multimodality and Deep learning Laboratory
 ---
 
