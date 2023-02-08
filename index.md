@@ -1,4 +1,4 @@
 ---
-title: Vision, Multimodality and Deep learning Laboratory
+title: Laboratory Introduction
 ---
 
